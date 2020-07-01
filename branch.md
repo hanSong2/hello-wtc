@@ -12,3 +12,6 @@ git merge master
 - 형태로 사용한다.
 - 현재 branch에 master 브랜치의 내용을 가져와서 변경사항을 merge 한다.
 - 이 때 같은 지점을 수정 했을 경우 merge conflict가 발생 할 수 있다.
+
+# pull request
+변경한 내용의 병합을 요청한다.
